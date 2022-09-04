@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="108c07dc-f370-4e04-9879-02c9acf3c89e" name="Changes" comment="Javadoc corrections" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="289pa7oV0OWctSCykixyeSIWBf3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../javafx/javafx-sdk-17.0.1/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.HoppersGUI hoppers-4.txt" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="108c07dc-f370-4e04-9879-02c9acf3c89e" name="Changes" comment="" />
+      <created>1650638716853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650638716853</updated>
+    </task>
+    <task id="LOCAL-00001" summary="some PTUI stuff done">
+      <created>1650642334795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650642334795</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PTUI finished, GUI this weekend">
+      <created>1650665875077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650665875077</updated>
+    </task>
+    <task id="LOCAL-00003" summary="yeet3.5">
+      <created>1650745448904</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650745448904</updated>
+    </task>
+    <task id="LOCAL-00004" summary="yeet3.6">
+      <created>1650745821046</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650745821046</updated>
+    </task>
+    <task id="LOCAL-00005" summary="finished Hoppers GUI, everything done for Hoppers">
+      <created>1650755255211</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650755255211</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Everything is finished for hoppers including javadoc.">
+      <created>1650765138948</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650765138948</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Everything is finished for hoppers including javadoc.">
+      <created>1650910544859</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650910544859</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Reformatted some stuff">
+      <created>1650929017925</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650929017925</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Minor output fixes">
+      <created>1650942594876</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650942594876</updated>
+    </task>
+    <task id="LOCAL-00010" summary="yeet 10">
+      <created>1650942759777</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1650942759777</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Javadoc corrections">
+      <created>1650952417770</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1650952417770</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some PTUI stuff done" />
+    <MESSAGE value="PTUI finished, GUI this weekend" />
+    <MESSAGE value="yeet3.5" />
+    <MESSAGE value="yeet3.6" />
+    <MESSAGE value="finished Hoppers GUI, everything done for Hoppers" />
+    <MESSAGE value="Everything is finished for hoppers including javadoc." />
+    <MESSAGE value="Reformatted some stuff" />
+    <MESSAGE value="Minor output fixes" />
+    <MESSAGE value="yeet 10" />
+    <MESSAGE value="Javadoc corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Javadoc corrections" />
+  </component>
+</project>
